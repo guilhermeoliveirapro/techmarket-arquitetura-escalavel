@@ -23,9 +23,9 @@ Este módulo implementa o formulário de cadastro de usuários com foco em segur
 
 ## 📸 Visualização
 
-*(Lembre-se de adicionar uma imagem ou link para o seu formulário funcionando)*
+O print a seguir ilustra o feedback visual da validação JavaScript, exibindo as mensagens de erro para dados inconsistentes antes do envio do formulário:
 
-[Adicionar Imagem ou GIF do Formulário aqui]
+![Resultado do Extrato no Terminal](../assets/res-cadastro.png)
 
 ---
 

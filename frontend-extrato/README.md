@@ -23,9 +23,9 @@ Módulo desenvolvido com foco em design *Mobile-First* para exibir o extrato de 
 
 ## 📸 Visualização
 
-*(Lembre-se de adicionar uma imagem que mostre o destaque nas transações e a visualização em modo celular)*
+A imagem abaixo demonstra a responsividade do extrato e a aplicação do destaque visual em transações de alto valor (>= R$ 5.000,00):
 
-[Adicionar Imagem ou GIF do Extrato em Mobile aqui]
+![Resultado do Extrato no Terminal](../assets/res-extrato.png)
 
 ---
 
